@@ -43,6 +43,11 @@ body{
     margin:10px;
     width:100%;
   }
+  .main-text{
+    margin:50px;
+    padding:10px;
+    font-size:14px;
+  }
   section div.boxes{
     background:white;
     width:40%;
